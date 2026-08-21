@@ -6,3 +6,4 @@ faster-whisper
 google-generativeai
 anthropic
 openai
+python-multipart
