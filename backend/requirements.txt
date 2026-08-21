@@ -9,3 +9,6 @@ openai
 python-multipart
 faiss-cpu
 sentence-transformers
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.12.1
