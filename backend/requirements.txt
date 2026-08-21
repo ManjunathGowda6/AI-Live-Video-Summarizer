@@ -7,3 +7,4 @@ google-generativeai
 anthropic
 openai
 python-multipart
+faiss-cpu
