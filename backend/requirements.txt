@@ -8,3 +8,4 @@ anthropic
 openai
 python-multipart
 faiss-cpu
+sentence-transformers
